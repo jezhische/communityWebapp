@@ -1,0 +1,3 @@
+https://shortn0tes.blogspot.com/2017/01/intellij-idea-community-edition-tomcat.html
+
+посмотреть web.xml DispatcherServlet и зависимости на Spring: у меня aaa.springExercises
